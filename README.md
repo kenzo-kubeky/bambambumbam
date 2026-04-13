@@ -1,2 +1,1 @@
-# bambambumbam
-blbllllnnjl
+Ahojte toto je moj projekt
